@@ -2,9 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Student at <a href="https://iiitsonepat.ac.in/">Indian Institute of Information Technology (IIIT) Sonepat</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
-
-[[Linkedin: Darshan JP](www.linkedin.com/in/darshan-jagdish-pawar-9b9701298)
-[[GitHub Darshan Pawar](https://github.com/DarshanPawar17)
+<p><em> B.Tech IT student at IIIT Sonepat specializing in Full-Stack Web Development and Data Analysis. </br> Experienced in building 
+ scalable web apps, interactive dashboards, and data-driven solutions through Internships, Projects, and Hackathon achievements. </em></p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
