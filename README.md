@@ -3,8 +3,8 @@
 <p><em>Student at <a href="https://iiitsonepat.ac.in/">Indian Institute of Information Technology (IIIT) Sonepat</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Linkedin: Darshan JP](www.linkedin.com/in/darshan-jagdish-pawar-9b9701298)
-[![GitHub Darshan Pawar](https://github.com/DarshanPawar17)
+[[Linkedin: Darshan JP](www.linkedin.com/in/darshan-jagdish-pawar-9b9701298)
+[[GitHub Darshan Pawar](https://github.com/DarshanPawar17)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
