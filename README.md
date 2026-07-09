@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Darshan Pawar</h1>
 
 <h3 align="center">
-Software Engineer | Backend & Full-Stack Developer | Competitive Programmer
+Software Engineer | Backend & Full-Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarshanPawar17&label=Profile%20Views&color=0e75b6&style=flat" alt="DarshanPawar17 Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Real-Time+Applications+with+WebSockets+%26+CRDTs;Exploring+System+Design+%26+Cloud+Architecture;Competitive+Programmer+%7C+600%2B+DSA+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/darshan-jagdish-pawar-9b9701298/" target="_blank">
+  <a href="https://www.linkedin.com/in/darshan-jagdish-pawar-9b9701298/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/Darshan_Pawar_17/" target="_blank">
+  <a href="https://leetcode.com/u/Darshan_Pawar_17/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/Darshan_Pawar" target="_blank">
+  <a href="https://codeforces.com/profile/Darshan_Pawar">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://github.com/DarshanPawar17" target="_blank">
+  <a href="https://github.com/DarshanPawar17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+---
 
 ---
 
