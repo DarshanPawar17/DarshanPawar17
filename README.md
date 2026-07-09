@@ -5,18 +5,21 @@ Software Engineer | Backend & Full-Stack Developer | Competitive Programmer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DarshanPawar17&label=Profile%20Views&color=0e75b6&style=flat" alt="DarshanPawar17 Profile Views" />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/darshan-jagdish-pawar-9b9701298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/u/Darshan_Pawar_17/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="YOUR_CODEFORCES_URL">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://codeforces.com/profile/Darshan_Pawar" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://github.com/DarshanPawar17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -26,7 +29,7 @@ Software Engineer | Backend & Full-Stack Developer | Competitive Programmer
 
 I'm a **Software Engineer and B.Tech IT student at IIIT Sonepat**, passionate about building **scalable backend systems, real-time applications, and developer-focused products**.
 
-I enjoy working on problems involving **backend architecture, APIs, distributed collaboration, WebSockets, databases, and cloud deployment**.
+I enjoy working on problems involving **backend architecture, APIs, real-time collaboration, WebSockets, databases, and cloud deployment**.
 
 - 💻 Software Engineer Intern at **Ideactra Technologies Pvt. Ltd.**
 - 🏗️ Experienced in designing **REST APIs, database schemas, and scalable backend architectures**
@@ -96,13 +99,13 @@ I enjoy working on problems involving **backend architecture, APIs, distributed 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" alt="Languages" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 </p>
 
 `REST APIs` `Socket.io` `WebSockets` `Yjs` `JWT` `MVC Architecture`
@@ -110,19 +113,19 @@ I enjoy working on problems involving **backend architecture, APIs, distributed 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="Cloud and DevOps" />
 </p>
 
 `AWS ECS` `AWS ECR` `CI/CD`
@@ -135,12 +138,14 @@ I enjoy working on problems involving **backend architecture, APIs, distributed 
 const darshan = {
     leetcode: {
         rating: "1750+",
-        globalRank: "Top ~12%"
+        globalRank: "Top ~12%",
+        profile: "Darshan_Pawar_17"
     },
 
     codeforces: {
         rank: "Pupil",
-        maxRating: 1289
+        maxRating: 1289,
+        handle: "Darshan_Pawar"
     },
 
     dsa: {
