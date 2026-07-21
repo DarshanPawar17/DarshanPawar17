@@ -79,23 +79,6 @@ I enjoy working on problems involving **backend architecture, APIs, real-time co
 
 ---
 
-### 🌍 Natours — Travel Booking Backend
-
-> A scalable backend system for a complete tour booking platform.
-
-- Built **20+ RESTful API endpoints**
-- Implemented **JWT authentication and role-based access control**
-- Developed tour, booking, review, and payment systems
-- Used advanced **MongoDB aggregation pipelines**
-- Implemented filtering, sorting, pagination, and geospatial queries
-- Integrated **Stripe API** for payments
-- Followed scalable **MVC architecture**
-
-**Tech Stack:**  
-`Node.js` `Express.js` `MongoDB` `JWT` `Stripe API`
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
