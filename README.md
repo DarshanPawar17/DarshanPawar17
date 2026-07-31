@@ -45,40 +45,6 @@ I enjoy working on problems involving **backend architecture, APIs, real-time co
 
 ---
 
-## 🚀 Featured Projects
-
-### ⚡ CodeSync — Real-Time Collaborative Code Editor
-
-> A real-time collaborative coding platform enabling multiple developers to edit and synchronize code simultaneously.
-
-- Built real-time collaboration using **Socket.io and WebSockets**
-- Implemented **CRDT-based synchronization with Yjs**
-- Integrated **Monaco Editor** for a VS Code-like coding experience
-- Containerized backend services using **Docker**
-- Deployed containers on **AWS ECS**
-- Managed Docker images using **AWS ECR**
-- Designed low-latency communication for instant code synchronization
-
-**Tech Stack:**  
-`Node.js` `Express.js` `Socket.io` `Yjs` `React.js` `Monaco Editor` `Docker` `AWS ECS` `AWS ECR`
-
----
-
-### 🌳 Structify — Data Structures Visualizer
-
-> An interactive learning platform that makes complex data structures easier to understand through real-time visualizations and AI-powered assistance.
-
-- Built **10+ interactive data structure visualizations**
-- Visualized Linked Lists, Stacks, Queues, Trees, BSTs, Heaps, and AVL Trees
-- Added real-time operations and smooth animations
-- Integrated **Gemini API-powered learning assistants**
-- Provides contextual explanations, complexity analysis, and implementation guidance
-
-**Tech Stack:**  
-`React.js` `Tailwind CSS` `Firebase` `Gemini API`
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
